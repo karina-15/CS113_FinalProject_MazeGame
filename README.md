@@ -12,11 +12,11 @@
 ## Table of Contents
 - [Features](#features)
 - [Assignment Instructions](#assignment-instructions)
-- [Project proposal\/description](#project-proposal\/description:)
-- [Graph algorithm used](#graph-algorithm-used:)
-- [Screenshot(s)](#screenshot(s):)
-- [UML Class+Relationship Diagram](#UML-Class+Relationship-Diagram:)
-- [Sequence Diagram (for driver)](#Sequence-Diagram-(for-driver):)
+- [Project proposal\/description](#project-proposaldescription)
+- [Graph algorithm used](#graph-algorithm-used)
+- [Screenshot(s)](#screenshots)
+- [UML Class+Relationship Diagram](#uml-classrelationship-diagram)
+- [Sequence Diagram (for driver)](#sequence-diagram-for-driver)
 - [Team](#team)
 - [License](#license)
 
