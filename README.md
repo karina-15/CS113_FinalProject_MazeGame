@@ -7,26 +7,24 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Badges](http://img.shields.io/:badges-4/4-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
 
-<img src="./resources/Gameplay.gif" width="450" height="450">
-
-[![Gameplay GIF](resources/Gameplay.gif)]()
+<img src="./resources/Gameplay.gif" width="500" height="500">
 
 ## Table of Contents
 - [Features](#features)
-- [Assignment Instructions](#assignment Instructions)
-- [Project proposal/description](#project proposal/description:)
-- [Graph algorithm used](#graph algorithm used:)
+- [Assignment Instructions](#assignment-instructions)
+- [Project proposal/description](#project-proposal/description:)
+- [Graph algorithm used](#graph-algorithm-used:)
 - [Screenshot(s)](#screenshot(s):)
-- [UML Class+Relationship Diagram](#UML Class+Relationship Diagram:)
-- [Sequence Diagram (for driver)](#Sequence Diagram-(for driver):)
+- [UML Class+Relationship Diagram](#UML-Class+Relationship-Diagram:)
+- [Sequence Diagram (for driver)](#Sequence-Diagram-(for-driver):)
 - [Team](#team)
 - [License](#license)
 
 
 ## Features
-Edit [obstacles.txt](../obstacles.txt) to change map/level trees/obstacles
+Edit [obstacles.txt](./obstacles.txt) to change map/level trees/obstacles
 
-Edit [World.java](../src/edu.miracosta.cs113/World.java) to change goal marker
+Edit [World.java](./src/edu/miracosta/cs113/World.java) to change goal marker
 
 > Change goal marker position
 >```java
@@ -89,14 +87,12 @@ Complete the `Graph` class, either as an adjacency list or adjacency matrix, per
   After testing other paths available it moves towards its objective using the shortest path found.
 
 ## Screenshot(s):
-![Start menu](resources/StartMenu.PNG)
-![How to play](resources/HowToPlay.PNG)
-![Gameplay](resources/Gameplay.PNG)
-![Reaching the goal](resources/ReachingTheGoal.PNG)
-![Losing](resources/Losing.PNG)
-
-
-
+<img src="./resources/StartMenu.PNG" width="500" height="500">
+<img src="./resources/HowToPlay.PNG" width="500" height="500">
+<img src="./resources/Gameplay.PNG" width="500" height="500">
+<img src="./resources/Gameplay.PNG" width="500" height="500">
+<img src="./resources/ReachingTheGoal.PNG" width="500" height="500">
+<img src="./resources/Losing.PNG" width="500" height="500">
 
 ## UML Class+Relationship Diagram:
 ![UML Class](resources/GraphGameUML.png)
