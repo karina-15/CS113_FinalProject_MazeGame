@@ -6,6 +6,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Badges](http://img.shields.io/:badges-3/3-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
 
+*** Gameplay ***
 <img src="./resources/Gameplay.gif" width="550" height="550">
 
 ## Table of Contents
