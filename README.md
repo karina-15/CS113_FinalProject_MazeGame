@@ -3,9 +3,8 @@
 > Maze Game collaboration using Dijkstra's algorithm to find shortest path from enemy to player
 
 [![Build Status](https://travis-ci.com/karina-15/cs113_FinalProject_MazeGame.svg?branch=master)](https://travis-ci.com/karina-15/cs113_FinalProject_MazeGame.svg?branch=master)
-[![Coverage Status](http://img.shields.io/coveralls/doge/wow.svg)](https://coveralls.io/r/doge/wow)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Badges](http://img.shields.io/:badges-4/4-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
+[![Badges](http://img.shields.io/:badges-3/3-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
 
 <img src="./resources/Gameplay.gif" width="550" height="550">
 
