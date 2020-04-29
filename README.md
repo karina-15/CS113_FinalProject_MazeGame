@@ -7,12 +7,12 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 [![Badges](http://img.shields.io/:badges-4/4-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
 
-<img src="./resources/Gameplay.gif" width="500" height="500">
+<img src="./resources/Gameplay.gif" width="550" height="550">
 
 ## Table of Contents
 - [Features](#features)
 - [Assignment Instructions](#assignment-instructions)
-- [Project proposal/description](#project-proposal/description:)
+- [Project proposal\/description](#project-proposal\/description:)
 - [Graph algorithm used](#graph-algorithm-used:)
 - [Screenshot(s)](#screenshot(s):)
 - [UML Class+Relationship Diagram](#UML-Class+Relationship-Diagram:)
@@ -87,12 +87,12 @@ Complete the `Graph` class, either as an adjacency list or adjacency matrix, per
   After testing other paths available it moves towards its objective using the shortest path found.
 
 ## Screenshot(s):
-<img src="./resources/StartMenu.PNG" width="500" height="500">
-<img src="./resources/HowToPlay.PNG" width="500" height="500">
-<img src="./resources/Gameplay.PNG" width="500" height="500">
-<img src="./resources/Gameplay.PNG" width="500" height="500">
-<img src="./resources/ReachingTheGoal.PNG" width="500" height="500">
-<img src="./resources/Losing.PNG" width="500" height="500">
+<img src="./resources/StartMenu.PNG" width="550" height="550">
+<img src="./resources/HowToPlay.PNG" width="550" height="550">
+<img src="./resources/Gameplay.PNG" width="550" height="550">
+<img src="./resources/Gameplay.PNG" width="550" height="550">
+<img src="./resources/ReachingTheGoal.PNG" width="550" height="550">
+<img src="./resources/Losing.PNG" width="550" height="550">
 
 ## UML Class+Relationship Diagram:
 ![UML Class](resources/GraphGameUML.png)
